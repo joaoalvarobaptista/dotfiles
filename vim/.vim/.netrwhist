@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src/app/create'
+let g:netrw_dirhist_7='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src/services'
+let g:netrw_dirhist_6='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src/app/donate'
+let g:netrw_dirhist_5='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src/components'
+let g:netrw_dirhist_4='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src'
+let g:netrw_dirhist_3='/home/joaoalvaro/Workspace/DeV/roadmapblockchain/donate/dapp/src/app'
+let g:netrw_dirhist_2='/home/joaoalvaro/Documents/DeV/roadmapfrontend/cursohtmlcssguanabara/revisao01/Desafio10/assets/css'
+let g:netrw_dirhist_1='/home/joaoalvaro/Documents/DeV/roadmapfrontend/cursohtmlcssguanabara/revisao01/Desafio10/assets'
